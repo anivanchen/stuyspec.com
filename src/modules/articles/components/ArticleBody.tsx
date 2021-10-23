@@ -20,6 +20,7 @@ const styles = {
     fontSize: "19px",
     lineHeight: 1.4,
     padding: "0 0 18px",
+    wordBreak: "break-all",
     "& p": {
       marginBottom: "20px",
     },
